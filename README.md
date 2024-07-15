@@ -1,24 +1,17 @@
-# README
+#### Important commands
+```
+rails server
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+rails test
 
-Things you may want to cover:
+rails db:migrate
 
-* Ruby version
+rails db:migrate:reset
 
-* System dependencies
+rails db:seed
 
-* Configuration
+bundler install
 
-* Database creation
+bundler update
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
